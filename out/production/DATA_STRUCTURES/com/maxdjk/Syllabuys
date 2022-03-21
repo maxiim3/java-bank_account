@@ -1,0 +1,5 @@
+create a program that simulates a bank. User should have an account. depending on its status it has certain priviliege and dfiferent authorization.
+we program against interfaces.
+We want to be able to make bank transfer from one account to another. The bank Class makes the veerifications and authorization.
+Account just returns values and numbers. its a wallet
+later we implement a UI to simulate an ATM with buttons, PinCode, or online bank managment with authentification
